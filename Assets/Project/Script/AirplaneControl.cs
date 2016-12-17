@@ -4,7 +4,7 @@ using System.Collections;
 public class AirplaneControl : MonoBehaviour {
 
 
-	public float planespeed = 0.5f;
+	float planespeed = 2f;
 	// Use this for initialization
 	void Start () {
 	
